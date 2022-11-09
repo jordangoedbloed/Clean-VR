@@ -1,0 +1,16 @@
+
+.is-primary{
+  background-color:#378BA4 !important;
+}
+
+.is-danger{
+  background-image: url(/img/heroimage1.jpg) !important;
+}
+
+.column {
+  text-align: center;
+}
+
+.has-background-black{
+  background-color: #81BECE !important;
+}
